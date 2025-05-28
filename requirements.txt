@@ -1,0 +1,61 @@
+# Core Deep Learning & Computation
+torch==2.7.0
+torchvision==0.22.0
+numpy==2.2.6
+
+# Image/Video Processing
+opencv-python==4.11.0.86
+Pillow==9.5.0
+
+# Web Framework & API
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+python-multipart==0.0.20
+streamlit==1.37.0
+
+# Machine Learning Utilities
+scikit-learn==1.6.1
+
+# Visualization & UI
+matplotlib==3.10.3
+
+# Explainable AI
+grad-cam==1.5.5
+
+# Utilities
+tqdm==4.67.1
+pydantic==2.10.4
+python-dotenv==1.0.1
+pyyaml==6.0.2
+requests==2.32.3
+
+# Development & Testing
+pytest==8.3.4
+pytest-asyncio==0.25.0
+httpx==0.28.1
+
+# Data Processing
+pandas==2.2.3
+
+# Logging
+loguru==0.7.3
+
+# File Handling
+aiofiles==24.1.0
+
+# Dependencies from grad-cam and torch
+contourpy>=1.0.1
+cycler>=0.10
+fonttools>=4.22.0
+kiwisolver>=1.3.1
+packaging>=20.0
+python-dateutil>=2.7
+mpmath>=1.1.0
+sympy>=1.13.3
+networkx
+jinja2
+fsspec
+joblib>=1.2.0
+threadpoolctl>=3.1.0
+scipy>=1.6.0
+MarkupSafe>=2.0

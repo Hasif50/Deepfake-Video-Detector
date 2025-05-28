@@ -1,0 +1,17 @@
+# Streamlit and web interface
+streamlit==1.37.0
+requests==2.32.3
+
+# Data processing
+pandas==2.2.3
+numpy==2.2.6
+
+# Image processing
+Pillow==9.5.0
+
+# Utilities
+python-dotenv==1.0.1
+
+# Dependencies
+packaging>=20.0
+python-dateutil>=2.7
